@@ -5,6 +5,9 @@ Created on Sat Jul 15 11:35:30 2023
 
 @author: shaanpatel
 """
+
+##SPI Analysis of the historical precipitation data.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
