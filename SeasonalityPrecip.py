@@ -15,7 +15,7 @@ import statsmodels.api as sm
 from statsmodels.tsa.seasonal import seasonal_decompose
 
 # Set the path to the dataset
-file_path = "/Users/shaanpatel/Desktop/Data 2/TotalRainfall19602020.csv"
+file_path = "/Users/shaanpatel/Desktop/Data 2/Rainfall19612020.csv"
 
 # Read the dataset into a pandas DataFrame
 data = pd.read_csv(file_path)
