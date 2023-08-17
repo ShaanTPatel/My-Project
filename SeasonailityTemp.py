@@ -5,6 +5,8 @@ Created on Thu Jul  6 19:50:29 2023
 @author: shaanpatel
 """
 
+#Seasonality analysis of the historical temperature data.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
