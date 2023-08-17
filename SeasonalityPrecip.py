@@ -6,6 +6,8 @@ Created on Thu Jul  6 12:38:19 2023
 @author: shaanpatel
 """
 
+##Seasonality analysis of the historical precipitation data.
+
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
