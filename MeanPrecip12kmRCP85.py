@@ -6,8 +6,7 @@ Created on Thu Jul 13 22:44:02 2023
 @author: shaanpatel
 """
 
-import pandas as pd
-import matplotlib.pyplot as plt
+##This script is used to analyse the precipitation data from the (12km) regional models used in the UKCP18 projections. 
 
 # File path and name
 file_path = '/users/shaanpatel/desktop/Data 2/12km/RCP8519802081.csv'
