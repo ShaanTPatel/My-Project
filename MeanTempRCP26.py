@@ -6,6 +6,8 @@ Created on Wed Jul 12 12:39:54 2023
 @author: shaanpatel
 """
 
+##This script is used to analyse the precipitation data from the 60km global models used in the UKCP18 projections. 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
