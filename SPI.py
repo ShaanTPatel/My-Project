@@ -29,7 +29,7 @@ def calculate_spi(data, timescale):
     return spi_values
 
 # File path of the precipitation data
-precipitation_file_path = '/users/shaanpatel/desktop/Data 2/TotalRainfall19602020.csv'
+precipitation_file_path = '/users/shaanpatel/desktop/Data 2/Rainfall19612020.csv'
 
 # Load the data from the CSV file
 precip_data = pd.read_csv(precipitation_file_path)
