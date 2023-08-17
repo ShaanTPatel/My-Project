@@ -6,7 +6,7 @@ Created on Wed Jul 12 12:39:54 2023
 @author: shaanpatel
 """
 
-##This script is used to analyse the precipitation data from the (12km) regional models used in the UKCP18 projections. RCP8.5 Pathway
+##This script is used to analyse the precipitation data from the (12km) regional models used in the UKCP18 projections. RCP2.6 Pathway
 
 import pandas as pd
 import matplotlib.pyplot as plt
