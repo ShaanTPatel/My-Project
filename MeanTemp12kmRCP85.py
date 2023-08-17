@@ -5,6 +5,9 @@ Created on Wed Jul 12 11:35:46 2023
 
 @author: shaanpatel
 """
+
+##This script is used to analyse the Temperature data from the (12km) regional models used in the UKCP18 projections. RCP8.5
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
